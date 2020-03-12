@@ -117,11 +117,11 @@
         <event-block sid="678177097473685">
             <conditions>
                 <condition id="0" name="On collision with another object" sid="313673013587481" type="heroi">
-                    <param id="0" name="Object">Sprite</param>
+                    <param id="0" name="Object">inimigo2</param>
                 </condition>
             </conditions>
             <actions>
-                <action id="-9" name="Destroy" sid="357139231613348" type="Sprite" />
+                <action id="-9" name="Destroy" sid="357139231613348" type="inimigo2" />
             </actions>
         </event-block>
         <event-block sid="554084353713797">
